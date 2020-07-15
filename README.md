@@ -18,5 +18,5 @@ Now the client side setup is over. Open http://localhost:3000/ in the browser to
 cd server<br/>
 npm install<br/>
 nodemon start<br/>
-Now the server side setup is over. Change the MongoDB URL in server.js.<br/>
+Now the server side setup is over. Change the MongoDB URL in index.js.<br/>
 Once the process is success you can see<br/><br/>
